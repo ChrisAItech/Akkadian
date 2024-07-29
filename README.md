@@ -1,0 +1,2 @@
+# Akkadian
+Akkadian Translation Project
