@@ -11,6 +11,14 @@ The project employs an innovative pretraining framework that integrates:
 - **Fine-tuning-style pretraining data** to enhance logical connections early in training.
 - **Instruction fine-tuning** to ensure structured and user-friendly responses.
 
+## Expected Outcome Objectives
+The model is expected to:
+- **Exhibit a proficient understanding of Akkadian**: Demonstrate strong comprehension of the available corpus of Akkadian texts, including the ability to parse and translate complex sentence structures.
+- **Reason about linguistic ambiguities**: Provide insightful reasoning on the meanings of words and phrases, particularly in cases where context or historical nuance influences interpretation.
+- **Test domain-specific reasoning**: Act as a benchmark for general reasoning capabilities in a specialized domain, leveraging a training dataset consisting solely of language tokens (Akkadian and English) and reasoning tokens (English).
+
+By achieving these objectives, the model will not only advance translation and interpretation of ancient texts but also contribute to broader research in language reasoning models.
+
 ## Checkpoints
 Updated checkpoints will be released periodically throughout the duration of the training process. These will provide:
 - Insights into the model's progress and performance on translation and reasoning tasks.
